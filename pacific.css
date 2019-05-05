@@ -1,9 +1,14 @@
 /*
+
+resizing not working
+comments are not correctly closed
+
 Project Name: A Simple Web Site (HW19)  
 Author: Paola Wollants 
 Date Last Modified: May 2, 2019
 GitHub User: PaolaMWollants
-/*
+*/
+
 * { box-sizing: border-box; }
 
 /*Set the body background, text color, and font style */
